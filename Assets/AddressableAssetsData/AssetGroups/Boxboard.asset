@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Boxboard
+  m_EditorClassIdentifier: 
+  m_GroupName: Boxboard
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 469d455da248fed43a45b87ef6207978
+  m_SerializeEntries:
+  - m_GUID: 63cda7eb669842b8af7e1b1dd4668b7e
+    m_Address: nap_dark_blue2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: cdfbaab9ef374d63bb9c7085540b8288
+    m_Address: nap_dark_blue3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 7680f55fe3d24d2ca93585c3ee73ab85
+    m_Address: nap_dark_blue4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 1a4581ded4304ac58acf1172b8781e9a
+    m_Address: nap_dark_blue5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 84a656e9afc347d08d6976b703780bee
+    m_Address: nap_dark_purple2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 2c9c2a8ec21242c2a7a9a167228dbe75
+    m_Address: nap_dark_purple3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 01afa050519240e2a4a33b900301a793
+    m_Address: nap_dark_purple4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ed85b1fee60d4397bd6ef8ff2a2d9dcc
+    m_Address: nap_dark_purple5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: c9bee13fe50a4b23b2acbcc8239be2a0
+    m_Address: nap_green2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 394a3f79c7f34f9a8018a25a11fb05d2
+    m_Address: nap_green3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 52271cafa8b94947941aa4985d78b1a1
+    m_Address: nap_green4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 37c8d3a177334a91b1ee9a99ce7287b0
+    m_Address: nap_green5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: d3b2aa5e7eda4f1aa8e27108681cf83b
+    m_Address: nap_grey2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 1db4518703904ea1a8b5c2316e38ff46
+    m_Address: nap_grey3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 128ff9ed6e28435f94c98b956e5b8aae
+    m_Address: nap_grey4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: e3a3cfbe328b4ad491455c6f561e0710
+    m_Address: nap_grey5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 22fadf02772649f98e32f8b72e8f0c68
+    m_Address: nap_lightblue2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 8d7dd01204b549908ea59e884254c455
+    m_Address: nap_lightblue3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 83839d21436f4c289c20ad44985334ef
+    m_Address: nap_lightblue4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: aaf3b2ac2ca344b399a67337a8d4a8ab
+    m_Address: nap_lightblue5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 8b9375bc22f740c9a64cea39b534009e
+    m_Address: nap_lightpurple2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 17f48e0112f04da2acb3e1c122f6ac4c
+    m_Address: nap_lightpurple3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 55557f33566b469d852734e82e4d40a9
+    m_Address: nap_lightpurple4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: d6d7ab5d929540d59463ef56a7288598
+    m_Address: nap_lightpurple5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 97a5cea59167490894ad8626a3fae764
+    m_Address: nap_orange2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 4cb4711d17fd4c3c8bff5ecaaf64641e
+    m_Address: nap_orange3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: bb5514f2e94e49e89d84c4b715dab260
+    m_Address: nap_orange4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ddb29bd0a3d2477f9f420c27bee9eb13
+    m_Address: nap_orange5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 40d4de837c2b4ea0921ba9d9a670d742
+    m_Address: nap_pink2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ebd4ecbe332d410c81bea6b1e6f61d9c
+    m_Address: nap_pink3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: a0add8f33ca042869d7aafe77392b24e
+    m_Address: nap_pink4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 930ea3be37f3452890f53e2940dc386d
+    m_Address: nap_pink5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ab572344f72844a68f355fd65aab1d69
+    m_Address: nap_red2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ff5e48ce8a6949c19a7606c3f2c000d3
+    m_Address: nap_red3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 755a38db5a2c4715af12b648eac6f1d0
+    m_Address: nap_red4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ef8048a40f5945ba800762f805500ae5
+    m_Address: nap_red5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 2856c38e6c15409487704199568605b4
+    m_Address: nap_yellow2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: da621476bfb149b78bfb5b0749f46a42
+    m_Address: nap_yellow3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: a8aab527678a4310ad7771d54c344ec8
+    m_Address: nap_yellow4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 0459924fdeec4db7bd71a938ae469cdc
+    m_Address: nap_yellow5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: ea82bb566d5a4d5f94adadca33946bd2
+    m_Address: glass_2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: c8ffb07b925d4bdfb1f1deb3e58860e7
+    m_Address: glass_3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: dc858511f98d41c595dd461cbad915a4
+    m_Address: glass_4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  - m_GUID: 3b032b193ebb4ce3b8426fb8e3f3404c
+    m_Address: Glass_5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BoxBoardImage
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2544409b6a867e4ea6e197d828b9fd6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9b9d789eec51ca14e865292c7f569150, type: 2}
+    - {fileID: 11400000, guid: 936e0b1cf5dbfdf4dbddd0284bf5e3b6, type: 2}

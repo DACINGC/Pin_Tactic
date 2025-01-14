@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 88bebf5e1e4443378ed57875dec09aa6
+timeCreated: 1731169063
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "ROHNROUNDED-BLACKITALIC"
+  fontNames:
+  - RohnRounded-BlackItalic
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ab8f6b9b99d4545a73326eb867677da
+timeCreated: 1731169063
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "ICIELPANTON-BLACK"
+  fontNames:
+  - iCiel Panton
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

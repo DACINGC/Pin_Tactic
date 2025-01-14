@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Screw
+  - Go
+  - Glass
+  - Ice
+  - Rope
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Glass3
+  - Glass4
+  - Glass5
+  - Glass6
+  - Glass7
+  - Glass8
+  - Glass9
+  - Glass10
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Screw
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 2714341243
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Glass1
+    uniqueID: 312252547
+    locked: 0
+  - name: Glass2
+    uniqueID: 1431812145
+    locked: 0
+  - name: Glass3
+    uniqueID: 3884484991
+    locked: 0
+  - name: Glass4
+    uniqueID: 272715639
+    locked: 0
+  - name: Glass5
+    uniqueID: 2862108985
+    locked: 0
+  - name: Glass6
+    uniqueID: 2934947995
+    locked: 0
+  - name: Glass7
+    uniqueID: 2855314459
+    locked: 0
+  - name: Glass8
+    uniqueID: 3453393671
+    locked: 0
+  - name: Glass9
+    uniqueID: 1035493839
+    locked: 0
+  - name: Glass10
+    uniqueID: 2074989539
+    locked: 0
+  - name: End
+    uniqueID: 2833760441
+    locked: 0
